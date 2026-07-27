@@ -13,3 +13,7 @@ Run locally:
 /Library/Developer/CommandLineTools/usr/bin/python3 manage.py migrate
 /Library/Developer/CommandLineTools/usr/bin/python3 manage.py runserver
 ```
+
+---
+
+> **Profile note:** See [PROFILE_NOTE.md](./PROFILE_NOTE.md) — which IBM assignment this is and whether to keep on GitHub.
